@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 add coding :utf-8
+=======
+clara's test
+>>>>>>> dev

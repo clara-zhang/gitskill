@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 add coding :utf-8
-=======
 clara's test
->>>>>>> dev
+it is work
